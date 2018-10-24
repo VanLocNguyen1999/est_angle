@@ -1,0 +1,15 @@
+*.elf
+*.hex
+*.bin
+*.swp
+*.swo
+tags
+*.fuse*
+*.d
+*.lst
+*.map
+*.o
+*.a
+*.out
+cscope.*
+*.png
